@@ -17,7 +17,7 @@ The whole project is contained within a single .rkt file, so setup will be strai
 ![billboard](https://github.com/ngolp/cs1102-accelerated-intro-to-program-design/assets/144621445/0dc6121d-e491-434b-b425-bd147206f619)
 
 ## Authors
- - Nick Golparvar
+ - Nicholas Golparvar
  - Kevin Koroveshi
 
 # simple_tic_tac_toe.rkt
